@@ -7,7 +7,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your applicati
+  // This widget is the root of your applicatio
 
   
     
