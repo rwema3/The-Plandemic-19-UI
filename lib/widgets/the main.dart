@@ -175,7 +175,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         
                       
                   
-                      See det
+                      See de
                   
                       "assets/images/map.png",
                       fit: BoxFit.contain,
