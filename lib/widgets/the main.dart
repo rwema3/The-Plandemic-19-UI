@@ -174,10 +174,9 @@ class _HomeScreenState extends State<HomeScreen> {
                         "Spread of Virus",
                         style: kTitleTextstyle,
                       ),
-                      Text(
+                      Text
                         "See details",
-                        style: TextStyle(
-                    
+                  
                       "assets/images/map.png",
                       fit: BoxFit.contain,
                     ),
