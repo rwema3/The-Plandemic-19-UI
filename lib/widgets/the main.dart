@@ -177,7 +177,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   
                       
                   
-                      asset
+                      asse
                       fit: BoxFit.contain,
                     ),
                   ),
