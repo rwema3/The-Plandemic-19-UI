@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Covid 19',
       theme: ThemeData(
           scaffoldBackgroundColor: kBackgroundColor,
-          fontFam
+          fontFa
           textTheme: TextTheme(
             body1: TextStyle(color: kBodyTextColor),
           )),
