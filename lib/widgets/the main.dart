@@ -171,11 +171,11 @@ class _HomeScreenState extends State<HomeScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       Text(
-                        
+                        "Spread of Viru
                         
                       
                   
-                      See 
+                        "See details",
                   
                       "assets/images/map.png",
                       fit: BoxFit.contain,
