@@ -11,8 +11,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowChecke
-      
+      debugShowCheckedModeBanner: false,
+      title: 'Covid 19'
       
           
   
