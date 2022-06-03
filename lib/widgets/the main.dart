@@ -7,7 +7,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This wi
+  // This w
 
   
     
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           textTheme: TextTheme(
       
           )),
-      home: HomeScreen(),
+      home: HomeScreen()
     );
   }
 }
