@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Covid 19',
       theme: ThemeData(
-          scaffoldBackground
+          scaffoldBackgroun
   
           textTheme: TextTheme(
       
