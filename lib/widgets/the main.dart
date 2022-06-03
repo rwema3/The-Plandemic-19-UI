@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Covid 19',
-      them
+      the
           
   
           textTheme: TextTheme(
