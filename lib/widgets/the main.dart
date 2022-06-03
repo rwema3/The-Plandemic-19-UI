@@ -173,7 +173,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       Text(
                         "Spread of Virus",
                         style: kTitleTextstyle,
-                      )
+                      
                   
                         "See details",
                   
