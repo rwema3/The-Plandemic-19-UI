@@ -87,8 +87,8 @@ class _HomeScreenState extends State<HomeScreen> {
                         'United States',
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
-                        return DropdownMenuItem<St
-                          
+                        return DropdownMenuItem<String>(
+                          value: value,
                           child: Text(value),
                         );
                       }).toList(),
@@ -178,7 +178,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       
                   
                       
-                      
+                      fit: BoxFit.conta
                     ),
                   ),
                 ],
