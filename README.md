@@ -1,8 +1,6 @@
-# Covid-19 - Flutter UI
+# The Plandemic/ Covid-19 - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/zx6uMCoW2gQ)
-
-**Packages we are using:**
+**Packages I am using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
