@@ -14,10 +14,10 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Covid 19',
       theme: ThemeData(
-          scaffoldBackgro
+          scaffoldBackgroundColor: kBackgroundColor,
   
           textTheme: TextTheme(
-      
+            body1: TextStyle(color: kBod
           )),
       home: HomeScreen(),
     );
