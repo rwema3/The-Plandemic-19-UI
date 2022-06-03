@@ -188,8 +188,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     padding: EdgeInsets.all(20),
                     height: 178,
                     width: double.infinity,
-                    decoration: BoxDecoration(
-                      
+                    
                     child: Image.asset(
                       "assets/images/map.png",
                       fit: BoxFit.contain,
