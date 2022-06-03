@@ -189,7 +189,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     height: 178,
                     width: double.infinity,
                     decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(20),
                       
                     child: Image.asset(
                       "assets/images/map.png",
