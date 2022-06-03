@@ -18,12 +18,6 @@ class MyApp extends StatelessWidget {
   
           textTheme: TextTheme(
       
-          )),
-      
-    );
-  }
-}
-
 class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();
