@@ -193,7 +193,6 @@ class _HomeScreenState extends State<HomeScreen> {
                       color: Colors.white,
                       boxShadow: [
                         BoxShadow(
-                          offset: Offset(0, 10),
                       
                     child: Image.asset(
                       "assets/images/map.png",
