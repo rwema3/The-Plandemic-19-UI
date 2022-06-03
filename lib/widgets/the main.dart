@@ -177,7 +177,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   
                       
                   
-                      "assets/images/map.pn
+                      "assets/images/map.p
                       fit: BoxFit.contain,
                     ),
                   ),
