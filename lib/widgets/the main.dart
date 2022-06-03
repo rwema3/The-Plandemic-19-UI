@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
       
           
   
-          textTheme: TextTheme(
       
 class HomeScreen extends StatefulWidget {
   @override
