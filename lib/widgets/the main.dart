@@ -172,7 +172,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     children: <Widget>[
                       Text(
                         "Spread of Virus",
-                        stytyle,
+                        sttyle,
                       
                   
                         "See details",
