@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           textTheme: TextTheme(
       
           )),
-      home: HomeScreen
+      
     );
   }
 }
