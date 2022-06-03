@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           scaffoldBackgroundColor: kBackgroundColor,
   
           textTheme: TextTheme(
-            body1: TextStyle(color
+            body1: TextStyle(colo
           )),
       home: HomeScreen(),
     );
