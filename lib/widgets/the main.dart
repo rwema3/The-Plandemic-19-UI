@@ -178,13 +178,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         "See details",
                         style: TextStyle(
                           color: kPrimaryColor,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                    ],
-                  ),
-                  Container(
-                   
+                    
                     child: Image.asset(
                       "assets/images/map.png",
                       fit: BoxFit.contain,
