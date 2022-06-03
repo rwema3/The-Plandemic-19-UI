@@ -8,7 +8,7 @@
 
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
-**UI Credit**
+**Developer:**
 
 - Design by: Rendi Ramadana [link](https://www.uplabs.com/posts/coronavirus-information-concept)
 
