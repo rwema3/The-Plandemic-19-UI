@@ -194,7 +194,6 @@ class _HomeScreenState extends State<HomeScreen> {
                       boxShadow: [
                         BoxShadow(
                           offset: Offset(0, 10),
-                          blurRadius: 30,
                       
                     child: Image.asset(
                       "assets/images/map.png",
