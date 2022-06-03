@@ -178,7 +178,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       
                   
                       
-                      fit: Box
+                      fit: Bo
                     ),
                   ),
                 ],
