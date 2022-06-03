@@ -195,10 +195,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         BoxShadow(
                           offset: Offset(0, 10),
                           blurRadius: 30,
-                          color: kShadowColor,
-                        ),
-                      ],
-                    ),
+                      
                     child: Image.asset(
                       "assets/images/map.png",
                       fit: BoxFit.contain,
