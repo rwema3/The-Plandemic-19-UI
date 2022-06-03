@@ -171,8 +171,8 @@ class _HomeScreenState extends State<HomeScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       Text(
-                        "Spread of Viru
-                        
+                        "Spread of Virus",
+                        style: kTitleTetyle,
                       
                   
                         "See details",
