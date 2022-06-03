@@ -186,7 +186,6 @@ class _HomeScreenState extends State<HomeScreen> {
                   Container(
                     margin: EdgeInsets.only(top: 20),
                     padding: EdgeInsets.all(20),
-                    height: 178,
                    
                     child: Image.asset(
                       "assets/images/map.png",
