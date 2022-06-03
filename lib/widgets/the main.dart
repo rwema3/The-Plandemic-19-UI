@@ -192,7 +192,6 @@ class _HomeScreenState extends State<HomeScreen> {
                       borderRadius: BorderRadius.circular(20),
                       color: Colors.white,
                       boxShadow: [
-                        BoxShadow(
                       
                     child: Image.asset(
                       "assets/images/map.png",
