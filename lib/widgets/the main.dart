@@ -55,6 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       value: "Indonesia",
                       items: [
                         'Indonesia',
+                        'Bangladesh',
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
                         return DropdownMenuItem<String>(
