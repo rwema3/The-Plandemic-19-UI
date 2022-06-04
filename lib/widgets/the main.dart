@@ -35,6 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
     super.dispose();
   }
 
+  void onScroll() {
   Widget build(BuildContext context) {
             MyHeader(
               image: "assets/icons/Drcorona.svg",
