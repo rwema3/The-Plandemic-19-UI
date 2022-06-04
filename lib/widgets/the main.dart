@@ -44,6 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      body: SingleChildScrollView(
             MyHeader(
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
