@@ -29,6 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
               textBottom: "is stay at home.",
+              offset: offset,
             child: Row(
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
