@@ -38,6 +38,8 @@ class _HomeScreenState extends State<HomeScreen> {
   void onScroll() {
     setState(() {
       offset = (controller.hasClients) ? controller.offset : 0;
+    });
+  }
   Widget build(BuildContext context) {
             MyHeader(
               image: "assets/icons/Drcorona.svg",
