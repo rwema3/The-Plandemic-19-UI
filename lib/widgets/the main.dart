@@ -51,6 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     child: DropdownButton(
                       isExpanded: true,
                       underline: SizedBox(),
+                      icon: SvgPicture.asset("assets/icons/dropdown.svg"),
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
                         return DropdownMenuItem<String>(
