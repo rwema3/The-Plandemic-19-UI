@@ -41,7 +41,8 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
-  @override  Widget build(BuildContext context) {
+  @override
+  Widget build(BuildContext context) {
             MyHeader(
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
