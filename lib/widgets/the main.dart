@@ -32,7 +32,8 @@ class _HomeScreenState extends State<HomeScreen> {
   void dispose() {
     // TODO: implement dispose
     controller.dispose();
-   
+    super.dispose();
+  }
   Widget build(BuildContext context) {            MyHeader(
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
