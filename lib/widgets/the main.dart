@@ -46,6 +46,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       body: SingleChildScrollView(
         controller: controller,
+        child: Column(
             MyHeader(
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
