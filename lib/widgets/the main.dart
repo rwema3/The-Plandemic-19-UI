@@ -39,6 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(25),
+                border: Border.all(
             child: Row(
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
