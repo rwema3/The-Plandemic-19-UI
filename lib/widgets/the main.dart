@@ -24,7 +24,10 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     // TODO: implement initState
-  
+    super.initState();
+    controller.addListener(onScroll);
+  }
+
   
   Widget build(BuildContext context) {            MyHeader(
               image: "assets/icons/Drcorona.svg",
