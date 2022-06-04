@@ -49,6 +49,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   SizedBox(width: 20),
                   Expanded(
                     child: DropdownButton(
+                      isExpanded: true,
+                      underline: SizedBox(),
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
                         return DropdownMenuItem<String>(
