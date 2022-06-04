@@ -31,6 +31,8 @@ class _HomeScreenState extends State<HomeScreen> {
               textBottom: "is stay at home.",
               offset: offset,
             ),
+            Container(
+              margin: EdgeInsets.symmetric(horizontal: 20),
             child: Row(
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
