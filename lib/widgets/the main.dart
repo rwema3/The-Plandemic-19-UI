@@ -35,7 +35,8 @@ class _HomeScreenState extends State<HomeScreen> {
     super.dispose();
   }
 
-  Widget build(BuildContext context) {            MyHeader(
+  Widget build(BuildContext context) {
+            MyHeader(
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
               textBottom: "is stay at home.",
