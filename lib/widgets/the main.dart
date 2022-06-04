@@ -37,6 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
               height: 60,
               width: double.infinity,
               decoration: BoxDecoration(
+                color: Colors.white,
             child: Row(
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
