@@ -42,6 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 border: Border.all(
                   color: Color(0xFFE5E5E5),
                 ),
+              ),
             child: Row(
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
