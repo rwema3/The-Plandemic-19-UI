@@ -40,7 +40,8 @@ class _HomeScreenState extends State<HomeScreen> {
       offset = (controller.hasClients) ? controller.offset : 0;
     });
   }
-  Widget build(BuildContext context) {
+
+  @override  Widget build(BuildContext context) {
             MyHeader(
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
