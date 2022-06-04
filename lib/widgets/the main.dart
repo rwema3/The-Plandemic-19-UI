@@ -54,6 +54,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       icon: SvgPicture.asset("assets/icons/dropdown.svg"),
                       value: "Indonesia",
                       items: [
+                        'Indonesia',
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
                         return DropdownMenuItem<String>(
