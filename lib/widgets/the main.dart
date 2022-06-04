@@ -6,7 +6,8 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 void main() => runApp(MyApp());
 
-c
+class MyApp extends StatelessWidget {
+  
           
           
             
