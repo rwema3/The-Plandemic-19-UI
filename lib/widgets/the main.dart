@@ -48,6 +48,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   SvgPicture.asset("assets/icons/maps-and-flags.svg"),
                   SizedBox(width: 20),
                   Expanded(
+                    child: DropdownButton(
                         'Japan'
                       ].map<DropdownMenuItem<String>>((String value) {
                         return DropdownMenuItem<String>(
