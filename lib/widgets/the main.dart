@@ -43,6 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    return Scaffold(
             MyHeader(
               image: "assets/icons/Drcorona.svg",
               textTop: "All you need",
