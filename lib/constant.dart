@@ -1,3 +1,6 @@
+
+// Text Style
+const kHeadingTextStyle = TextStyle(
   fontSize: 22,
   fontWeight: FontWeight.w600,
 );
