@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 // Colors
-
+const kBackgroundColor = Color(0xFFFEFEFE);
+const kTitleTextColor = Color(0xFF303030);
+s
 // Text Style
 const kHeadingTextStyle = TextStyle(
   fontSize: 22,
