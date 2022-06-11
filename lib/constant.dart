@@ -1,3 +1,5 @@
+  fontWeight: FontWeight.w600,
+);
 
 const kSubTextStyle = TextStyle(fontSize: 16, color: kTextLightColor);
 
