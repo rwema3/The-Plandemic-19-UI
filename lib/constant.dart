@@ -6,6 +6,7 @@ const kTitleTextColor = Color(0xFF303030);
 const kBodyTextColor = Color(0xFF4B4B4B);
 const kTextLightColor = Color(0xFF959595);
 const kInfectedColor = Color(0xFFFF8748);
+const kDeathColor = Color(0xFFFF4848);
 
 // Text Style
 const kHeadingTextStyle = TextStyle(
