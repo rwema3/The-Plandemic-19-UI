@@ -1,1 +1,2 @@
+  fontWeight: FontWeight.bold,
 );
