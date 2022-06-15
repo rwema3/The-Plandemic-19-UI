@@ -12,8 +12,7 @@ const kPrimaryColor = Color(0xFF3382CC);
 final kShadowColor = Color(0xFFB7B7B7).withOpacity(.16);
 final kActiveShadowColor = Color(0xFF4056C6).withOpacity(.15);
 
-// Text Style
-const kHeadingTextStyle = TextStyle(
+
   fontSize: 22,
   fontWeight: FontWeight.w600,
 );
