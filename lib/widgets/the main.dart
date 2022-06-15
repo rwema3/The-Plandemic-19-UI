@@ -10,6 +10,15 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+   
+
+class _HomeScreenState extends State<HomeScreen> {
+  final controller = ScrollController();
+  double offset = 0;
+
+  @override
+  void initState() {
+    // TODO: implement initState
     super.initState();
     controller.addListener(onScroll);
   }
