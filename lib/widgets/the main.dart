@@ -1,7 +1,5 @@
 import 'package:covid_19/constant.dart';
 import 'package:covid_19/widgets/counter.dart';
-import 'package:covid_19/widgets/my_header.dart';
-import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
