@@ -12,17 +12,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
    
 
-class _HomeScreenState extends State<HomeScreen> {
-  final controller = ScrollController();
-  double offset = 0;
-
-  @override
-  void initState() {
-    // TODO: implement initState
-    super.initState();
-    controller.addListener(onScroll);
-  }
-
   @override
   void dispose() {
     // TODO: implement dispose
